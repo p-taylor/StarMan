@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="starman.co.nz" resolutions="1x" timestamp="1508564589505">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="starman.co.nz" resolutions="1x" timestamp="1508564730382">
   <folder name="css">
     <file name="site_global.css" crc="236756761"/>
-    <file name="index.css" crc="528840215" ref="index"/>
+    <file name="index.css" crc="4230528382" ref="index"/>
     <file name="iefonts_index.css" crc="4272048350" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -18,5 +18,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4199249549" seo="true" mt="1508564564850" redirect="true"/>
+  <file name="index.html" crc="3838444928" seo="true" mt="1508564716036" redirect="true"/>
 </manifest>
